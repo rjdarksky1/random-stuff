@@ -1,3 +1,5 @@
+const a = 'a';
+const b = 'b';
 const x = 'x';
 const y = 'y';
 
