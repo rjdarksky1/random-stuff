@@ -18,5 +18,8 @@
   "homepage": "https://github.com/randomopf/random-stuff#readme",
   "dependencies": {
     "life-commit": "^0.1.2"
+  },
+  "devDependencies": {
+    "axios": "^0.19.2"
   }
 }
