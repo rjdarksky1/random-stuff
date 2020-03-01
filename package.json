@@ -1,0 +1,22 @@
+{
+  "name": "random-stuff",
+  "version": "1.0.0",
+  "description": "some random stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randomopf/random-stuff.git"
+  },
+  "author": "blah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randomopf/random-stuff/issues"
+  },
+  "homepage": "https://github.com/randomopf/random-stuff#readme",
+  "dependencies": {
+    "life-commit": "^0.1.2"
+  }
+}
