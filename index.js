@@ -10,3 +10,4 @@ module.export = {
     x,
     j
 };
+const z = { x, y };
