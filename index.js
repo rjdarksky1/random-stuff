@@ -5,6 +5,7 @@ const j = { x, y };
 
 const o = 'o';
 const p = 'p';
+const k = 'k';
 
 module.export = {
     x,
