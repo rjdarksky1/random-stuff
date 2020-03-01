@@ -11,3 +11,6 @@ module.export = {
     j
 };
 const z = { x, y };
+const z = { x, y };
+
+module.export = x;
