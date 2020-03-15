@@ -18,3 +18,5 @@ const z = { x, y };
 const z = { x, y };
 
 module.export = x;
+
+1;
