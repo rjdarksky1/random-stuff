@@ -20,3 +20,4 @@ const z = { x, y };
 module.export = x;
 
 1;
+2;
